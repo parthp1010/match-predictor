@@ -12,6 +12,8 @@ Today, I loaded 10 seasons and converted the date into a format through which it
 ## Day 4 (02.11.26)
 Today, I compared the home goals scored to the Poisson formula and checked the prediction with a graph. I also, looked at the trends of results over the season and noticed that in 20-21 there were more away wins than home, which could be because there were no crowds due to Covid-19. The results trend helps look at the home advantage's effect on the result for every season.
 
-## Day 5 (04.11.26)
+## Day 5 (03.11.26)
 Today, I learnt about the bookmaker's odds and their profit margins. I also calibrated these values and divided them into categories according to whether the result was actually true and plotted this on a graph, after splitting them into bins.
 
+## Day 6 (04.11.26)
+Today, I learnt about what the different baselines could be for the prediction and that accuracy is not enough due to the magnitude of probabilites. Therefore, I learnt about logloss and how to calculate that and found that the bookmakers had the least since they had almost all information before making their pick.
