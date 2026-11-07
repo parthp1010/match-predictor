@@ -21,3 +21,6 @@ Today, I learnt about what the different baselines could be for the prediction a
 ## Day 7 (05.11.26)
 Today, I just did some cleaning up with the notebook to make it more presentable, and published the Google Colab file to my GitHub repository.
 
+## Day 8 (07.11.26)
+Today, I learnt about features of prediction and how they are the things known before every match. I also tried to predict using shots on target but ran into a problem where the current data was also being used so I shifted everything down by 1 row. 
+
